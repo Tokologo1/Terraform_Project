@@ -1,1 +1,1 @@
-Testing Terraform if i can be able to deploy IaS on Google Cloud
+Testing Terraform to deploy IaS on Google Cloud
